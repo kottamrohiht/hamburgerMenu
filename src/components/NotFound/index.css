@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80vh;
+}
+
+.notFound {
+  width: 30%;
+}
+
+.nf-heading {
+  font-size: 18px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
+
+.nf-para {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
